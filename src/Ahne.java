@@ -18,5 +18,7 @@ public class Ahne
     {
         geschlecht = pgeschlecht;
     }
-
+    public String getvorname(){return vorname;}
+    public String getnachrame(){return nachname;}
+    public char getGeschlecht(){return geschlecht;}
 }
