@@ -16,7 +16,13 @@ public class Verwaltung {
 
 
           Ahnenbaum Lisa=   new Ahnenbaum();
+          System.out.println("preordertravison:");
             Lisa.searcW();
+            System.out.println("inordertravison:");
+            Lisa.searcI();
+            System.out.println("postordertravison:");
+            Lisa.searcp();
+
 
 
     }
