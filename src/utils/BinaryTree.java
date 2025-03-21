@@ -192,7 +192,7 @@ public class BinaryTree<ContentType> {
 	 * 
 	 * @return rechter Teilbaum vom Typ BinaryTree<ContentType> oder null, wenn der
 	 *         aktuelle Binaerbaum (this) leer ist
-	 */
+	 */  
 	public BinaryTree<ContentType> getRightTree() {
 		if (!this.isEmpty()) {
 			return this.node.right;

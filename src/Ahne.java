@@ -1,6 +1,6 @@
 import utils.*;
 public class Ahne
-{
+{//
     private String vorname;
     private String nachname;
     private char geschlecht;

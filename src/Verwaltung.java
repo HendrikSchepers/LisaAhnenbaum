@@ -14,7 +14,7 @@ public class Verwaltung {
     public Verwaltung() {
         scanner = new Scanner(System.in);
 
-
+//
           Ahnenbaum Lisa=   new Ahnenbaum();
           System.out.println("preordertravison:");
             Lisa.searcW();
